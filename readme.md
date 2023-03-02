@@ -1,12 +1,12 @@
 # A Web Based Extracurricular Management Information System at Cs50's Schools 
 
-**About Project:**
+## About Project
 Web-Based Extracurricular Information System at Schools. This study aims to analyze, design and implement a Web-Based Extracurricular Information System at School to help facilitate the management of data and information on extracurricular activities.
 
-**System Interface**
+## System Interface
 In the interface of this system, several views of the recommended extracurricular management information system at School will be explained. In the new system, the technical development uses Codeigniter as a framework and the database management system uses MySql.
 
-**System Requirements:**
+## System Requirements
 1. CodeIgniter Framework
 2. MySQL databases
 3. XAMPP / PHP 5.6
@@ -15,11 +15,11 @@ In the interface of this system, several views of the recommended extracurricula
 - Extract the file using the **WinRAR** application or **7zip**
 - Copy the **ektrakurikuler** folder, then paste it into the **htdocs** folder.
 - Enable **Apache** and **MySQL** on XAMPP.
-- Open a browser, then open the address **localhost/phpMyAdmin**
+- Open a browser, then open the address ``` localhost/phpMyAdmin ```
 - Create a new database with name **Ekskul**
-- Import application database into **ekskul** database.
-- Run the project by typing **localhost/ektrakurikuler**.
-- Login with **username** : *admin*, and **Password** : *admin*.
+- Import application database (**ekskul.sql**) into **ekskul** database.
+- Run the project by typing ``` localhost/ektrakurikuler ```.
+- Login with **username** : ``` admin ```, and **Password** : ``` admin ```.
 - Finished.
 
 **Application Features:**
