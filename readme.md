@@ -11,10 +11,10 @@ In the interface of this system, several views of the recommended extracurricula
 2. MySQL databases
 3. XAMPP / PHP 5.6
 4. Installation Guide:
-- Download and Install the XAMPP Application on the Computer. Please visit [XAMPP](https://www.apachefriends.org/download.html)
+- **Download and Install** the XAMPP Application on the Computer. Please visit [XAMPP](https://www.apachefriends.org/download.html)
 - Extract the file using the **WinRAR** application or **7zip**
-- Copy the **ekstrakurikuler** folder, then paste it into the **htdocs** folder.
-- Enable <Apache> and <MySQL> on XAMPP.
+- Copy the **ektrakurikuler** folder, then paste it into the **htdocs** folder.
+- Enable **Apache** and **MySQL** on XAMPP.
 - Open a browser, then open the address **localhost/phpMyAdmin**
 - Create a new database with name **Ekskul**
 - Import application database into **ekskul** database.
