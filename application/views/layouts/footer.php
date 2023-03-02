@@ -1,7 +1,7 @@
 <div class="clearfix"></div>
 		<footer>
 			<div class="container-fluid">
-				<p class="copyright">&copy; 2017 <a href="https://www.themeineed.com" target="_blank">Theme I Need</a>. All Rights Reserved. | Final Project by <a href='https://cs50.harvard.edu/indonesia/2023/project/' title='https://cs50.harvard.edu/indonesia/2023/project/' target='_blank'>CS50x Indonesia</a>
+				<p class="copyright">&copy; 2017 <a href="https://www.themeineed.com" target="_blank">Theme I Need</a>. All Rights Reserved. | Final Project Ghelvinny and Syamsiah by <a href='https://cs50.harvard.edu/indonesia/2023/project/' title='https://cs50.harvard.edu/indonesia/2023/project/' target='_blank'>CS50x Indonesia</a>
 				</p>
 			</div>
 		</footer>
